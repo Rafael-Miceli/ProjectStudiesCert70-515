@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SolutionMcts70-515">
+</Property><Property Name="Solution File" Value="C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-515\SolutionMcts70-515.sln">
+</Property><Property Name="Date" Value="sexta-feira, 14 de setembro de 2012">
+</Property><Property Name="Time" Value="11:49">
+</Property><Property Name="Log Number" Value="8">
+</Property></Properties><Event ErrorLevel="0" Project="C2L1Exercise1WebApplication" Source="C2L1Exercise1WebApplication\C2L1Exercise1WebApplication.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="C2L1Exercise1WebApplication" Source="C2L1Exercise1WebApplication\C2L1Exercise1WebApplication.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="C2L2Exercise1WebApplication" Source="C2L2Exercise1WebApplication\C2L2Exercise1WebApplication.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="C2L2Exercise1WebApplication" Source="C2L2Exercise1WebApplication\C2L2Exercise1WebApplication.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="C2L3Exercise1WebApplication" Source="C2L3Exercise1WebApplication\C2L3Exercise1WebApplication.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="C2L3Exercise1WebApplication" Source="C2L3Exercise1WebApplication\C2L3Exercise1WebApplication.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="C3L1Exercise1WebApplication" Source="C3L1Exercise1WebApplication\C3L1Exercise1WebApplication.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="C3L1Exercise1WebApplication" Source="C3L1Exercise1WebApplication\C3L1Exercise1WebApplication.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="C3L2Exercise1WebApplication" Source="C3L2Exercise1WebApplication\C3L2Exercise1WebApplication.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="C3L2Exercise1WebApplication" Source="C3L2Exercise1WebApplication\C3L2Exercise1WebApplication.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="C3L3Exercise1WebApplication" Source="C3L3Exercise1WebApplication\C3L3Exercise1WebApplication.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="C3L3Exercise1WebApplication" Source="C3L3Exercise1WebApplication\C3L3Exercise1WebApplication.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="C4L1Exercise1WebApplication" Source="C4L1Exercise1WebApplication\C4L1Exercise1WebApplication.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="C4L1Exercise1WebApplication" Source="C4L1Exercise1WebApplication\C4L1Exercise1WebApplication.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="C4L2Exercise1WebApplication" Source="C4L2Exercise1WebApplication\C4L2Exercise1WebApplication.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="C4L2Exercise1WebApplication" Source="C4L2Exercise1WebApplication\C4L2Exercise1WebApplication.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="SolutionMcts70-515.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="SolutionMcts70-515.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="C3L2Exercise1WebApplication" Source="C3L2Exercise1WebApplication\C3L2Exercise1WebApplication.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="C3L3Exercise1WebApplication" Source="C3L3Exercise1WebApplication\C3L3Exercise1WebApplication.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="C4L1Exercise1WebApplication" Source="C4L1Exercise1WebApplication\C4L1Exercise1WebApplication.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

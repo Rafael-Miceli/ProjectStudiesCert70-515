@@ -1,0 +1,5 @@
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L3Exercise1WebApplication\bin\C10L3Exercise1WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L3Exercise1WebApplication\bin\C10L3Exercise1WebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L3Exercise1WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L3Exercise1WebApplication\obj\Debug\C10L3Exercise1WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L3Exercise1WebApplication\obj\Debug\C10L3Exercise1WebApplication.pdb

@@ -1,0 +1,9 @@
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\WebApplication\bin\WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\WebApplication\bin\WebApplication.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\WebApplication\bin\WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\WebApplication\bin\WebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\WebApplication\obj\Debug\WebApplication.pdb

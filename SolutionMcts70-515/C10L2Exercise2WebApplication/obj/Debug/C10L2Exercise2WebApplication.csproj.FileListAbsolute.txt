@@ -1,0 +1,9 @@
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L2Exercise2WebApplication\bin\C10L2Exercise2WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L2Exercise2WebApplication\bin\C10L2Exercise2WebApplication.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L2Exercise2WebApplication\obj\Debug\C10L2Exercise2WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L2Exercise2WebApplication\obj\Debug\C10L2Exercise2WebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L2Exercise2WebApplication\bin\C10L2Exercise2WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L2Exercise2WebApplication\bin\C10L2Exercise2WebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L2Exercise2WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L2Exercise2WebApplication\obj\Debug\C10L2Exercise2WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C10L2Exercise2WebApplication\obj\Debug\C10L2Exercise2WebApplication.pdb

@@ -1,0 +1,9 @@
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1ServerControl\bin\Debug\C7L2Exercise1ServerControl.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1ServerControl\bin\Debug\C7L2Exercise1ServerControl.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1ServerControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1ServerControl\obj\Debug\C7L2Exercise1ServerControl.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1ServerControl\obj\Debug\C7L2Exercise1ServerControl.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1ServerControl\bin\Debug\C7L2Exercise1ServerControl.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1ServerControl\bin\Debug\C7L2Exercise1ServerControl.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1ServerControl\obj\Debug\C7L2Exercise1ServerControl.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1ServerControl\obj\Debug\C7L2Exercise1ServerControl.pdb

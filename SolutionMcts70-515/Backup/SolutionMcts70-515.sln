@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C1L2Exercise1", "C1L2Exercise1\", "{56BD5D16-6BD7-413D-857B-3634ACD6E131}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/C1L2Exercise1"
+		Debug.AspNetCompiler.PhysicalPath = "C1L2Exercise1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\C1L2Exercise1\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/C1L2Exercise1"
+		Release.AspNetCompiler.PhysicalPath = "C1L2Exercise1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\C1L2Exercise1\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "39058"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SuggestedPractices", "SuggestedPractices", "{7CD61D4B-698A-47B0-8662-085AE83C4089}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Labs", "Labs", "{E9431944-661F-4CCC-A14D-848EEF0F05B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{58A3C940-5E0A-446F-B260-5E8E4B8F0573}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practices", "Practices", "{C20BF0CA-0363-4327-B407-A0BEAAEEC268}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C2L1Exercise1", "C2L1Exercise1\", "{DDE06CD1-E338-4F24-9EE1-5882EC8BFF45}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/C2L1Exercise1"
+		Debug.AspNetCompiler.PhysicalPath = "C2L1Exercise1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\C2L1Exercise1\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/C2L1Exercise1"
+		Release.AspNetCompiler.PhysicalPath = "C2L1Exercise1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\C2L1Exercise1\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54058"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2L1Exercise1WebApplication", "C2L1Exercise1WebApplication\C2L1Exercise1WebApplication.csproj", "{5854856C-1DDA-4A7F-A0A9-A78E28C202FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2L2Exercise1WebApplication", "C2L2Exercise1WebApplication\C2L2Exercise1WebApplication.csproj", "{1ABA1700-92E4-4E7C-A94B-AFF1EBDE09A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2L3Exercise1WebApplication", "C2L3Exercise1WebApplication\C2L3Exercise1WebApplication.csproj", "{1590904C-A5B4-430D-A3D7-4F0DD0112208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C3L1Exercise1WebApplication", "C3L1Exercise1WebApplication\C3L1Exercise1WebApplication.csproj", "{D56CC769-5C25-458F-87F7-52DA26D4EB51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56BD5D16-6BD7-413D-857B-3634ACD6E131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BD5D16-6BD7-413D-857B-3634ACD6E131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BD5D16-6BD7-413D-857B-3634ACD6E131}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BD5D16-6BD7-413D-857B-3634ACD6E131}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DDE06CD1-E338-4F24-9EE1-5882EC8BFF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE06CD1-E338-4F24-9EE1-5882EC8BFF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE06CD1-E338-4F24-9EE1-5882EC8BFF45}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE06CD1-E338-4F24-9EE1-5882EC8BFF45}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5854856C-1DDA-4A7F-A0A9-A78E28C202FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5854856C-1DDA-4A7F-A0A9-A78E28C202FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5854856C-1DDA-4A7F-A0A9-A78E28C202FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5854856C-1DDA-4A7F-A0A9-A78E28C202FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABA1700-92E4-4E7C-A94B-AFF1EBDE09A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABA1700-92E4-4E7C-A94B-AFF1EBDE09A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABA1700-92E4-4E7C-A94B-AFF1EBDE09A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABA1700-92E4-4E7C-A94B-AFF1EBDE09A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1590904C-A5B4-430D-A3D7-4F0DD0112208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1590904C-A5B4-430D-A3D7-4F0DD0112208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1590904C-A5B4-430D-A3D7-4F0DD0112208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1590904C-A5B4-430D-A3D7-4F0DD0112208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56CC769-5C25-458F-87F7-52DA26D4EB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56CC769-5C25-458F-87F7-52DA26D4EB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56CC769-5C25-458F-87F7-52DA26D4EB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56CC769-5C25-458F-87F7-52DA26D4EB51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56BD5D16-6BD7-413D-857B-3634ACD6E131} = {E9431944-661F-4CCC-A14D-848EEF0F05B2}
+		{DDE06CD1-E338-4F24-9EE1-5882EC8BFF45} = {E9431944-661F-4CCC-A14D-848EEF0F05B2}
+		{5854856C-1DDA-4A7F-A0A9-A78E28C202FC} = {E9431944-661F-4CCC-A14D-848EEF0F05B2}
+		{1ABA1700-92E4-4E7C-A94B-AFF1EBDE09A2} = {E9431944-661F-4CCC-A14D-848EEF0F05B2}
+		{1590904C-A5B4-430D-A3D7-4F0DD0112208} = {E9431944-661F-4CCC-A14D-848EEF0F05B2}
+		{D56CC769-5C25-458F-87F7-52DA26D4EB51} = {E9431944-661F-4CCC-A14D-848EEF0F05B2}
+	EndGlobalSection
+EndGlobal

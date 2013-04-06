@@ -1,0 +1,14 @@
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\bin\C7L2Exercise1WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\bin\C7L2Exercise1WebApplication.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\bin\C7L2Exercise1ServerControl.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\bin\C7L2Exercise1ServerControl.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\obj\Debug\C7L2Exercise1WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\obj\Debug\C7L2Exercise1WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\obj\Debug\C7L2Exercise1WebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\bin\C7L2Exercise1WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\bin\C7L2Exercise1WebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\bin\C7L2Exercise1ServerControl.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\bin\C7L2Exercise1ServerControl.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\obj\Debug\C7L2Exercise1WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C7L2Exercise1WebApplication\obj\Debug\C7L2Exercise1WebApplication.pdb

@@ -1,0 +1,9 @@
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C8L2Exercise1WebApplication\bin\C8L2Exercise1WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C8L2Exercise1WebApplication\bin\C8L2Exercise1WebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C8L2Exercise1WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C8L2Exercise1WebApplication\obj\Debug\C8L2Exercise1WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C8L2Exercise1WebApplication\obj\Debug\C8L2Exercise1WebApplication.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C8L2Exercise1WebApplication\bin\C8L2Exercise1WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C8L2Exercise1WebApplication\bin\C8L2Exercise1WebApplication.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C8L2Exercise1WebApplication\obj\Debug\C8L2Exercise1WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C8L2Exercise1WebApplication\obj\Debug\C8L2Exercise1WebApplication.pdb

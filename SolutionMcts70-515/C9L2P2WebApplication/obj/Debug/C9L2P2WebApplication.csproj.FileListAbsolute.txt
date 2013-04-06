@@ -1,0 +1,9 @@
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C9L2P2WebApplication\bin\C9L2P2WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C9L2P2WebApplication\bin\C9L2P2WebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C9L2P2WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C9L2P2WebApplication\obj\Debug\C9L2P2WebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Rafael\Projects\SolutionMcts70-515\C9L2P2WebApplication\obj\Debug\C9L2P2WebApplication.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C9L2P2WebApplication\bin\C9L2P2WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C9L2P2WebApplication\bin\C9L2P2WebApplication.pdb
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C9L2P2WebApplication\obj\Debug\C9L2P2WebApplication.dll
+C:\Users\Rafa&Pri\SkyDrive\Rafael\Projects\SolutionMcts70-515\C9L2P2WebApplication\obj\Debug\C9L2P2WebApplication.pdb
