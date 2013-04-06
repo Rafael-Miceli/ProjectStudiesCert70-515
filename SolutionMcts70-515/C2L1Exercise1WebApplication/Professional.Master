@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Professional.master.cs" Inherits="C2L1Exercise1WebApplication.Professional" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+        <link href="Styles/Site.css" rel="stylesheet" type="text/css" />
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="float: left">
+        <img src="Contoso.gif" />
+    </div>
+    <div style="height: 100px">
+        <%--<span style="font-size:20px">Welcome to Contoso!</span>--%>
+        <asp:Label ID="lblWelcome" Font-Size="20px" Text="Welcome to Contoso!" runat="server" />
+    </div>
+    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+    </asp:Menu>
+    <div>
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
